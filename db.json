@@ -1,18 +1,23 @@
+
 [
   {
     "tytul": "Matrix",
-    "rok": 1999
+    "rok": 1999,
+    "gatunek": "Sci-Fi"
   },
   {
     "tytul": "Interstellar",
-    "rok": 2014
+    "rok": 2014,
+    "gatunek": "Sci-Fi"
   },
   {
     "tytul": "Incepcja",
-    "rok": 2010
+    "rok": 2010,
+    "gatunek": "Thriller"
   },
   {
     "tytul": "Avatar",
-    "rok": 2009
+    "rok": 2009,
+    "gatunek": "Przygodowy"
   }
 ]
